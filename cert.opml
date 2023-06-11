@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+		<title>Public CERT RSS Feeds</title>
+	</head>
+	<body>
+		<outline text="Public CERTs" title="Public CERTs">
+            <outline type="rss" xmlUrl="https://cert.europa.eu/cert/Data/newsletter/reviewlatest-SecurityBulletins.xml"/>
+            <outline type="rss" text="BGD e-GOV CIRT | Bangladesh e-Government Computer Incident Response Team" title="BGD e-GOV CIRT | Bangladesh e-Government Computer Incident Response Team" xmlUrl="https://www.cirt.gov.bd/feed/" htmlUrl="https://www.cirt.gov.bd"/>
+            <outline type="rss" text="Security Bulletins" title="Security Bulletins" xmlUrl="https://www.auscert.org.au/rss/bulletins/" htmlUrl="http://www.auscert.org.au/bulletins/"/>
+            <outline type="rss" text="Blogs on GovCERT.ch - Swiss Government Computer Emergency Response Team" title="Blogs on GovCERT.ch - Swiss Government Computer Emergency Response Team" xmlUrl="https://www.govcert.ch/blog/rss.xml" htmlUrl="https://www.govcert.ch/blog/"/>
+            <outline type="rss" text="NCSC-FI daily news followup" title="NCSC-FI daily news followup" xmlUrl="https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/news.xml" htmlUrl="https://ncsc.fi"/>
+            <outline type="rss" text="All CISA Advisories" title="All CISA Advisories" xmlUrl="https://www.cisa.gov/uscert/ncas/all.xml" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="RSS Feed" title="RSS Feed" xmlUrl="https://www.csa.gov.sg/Content/RSS-Feed" htmlUrl="https://www.csa.gov.sg/Content/RSS-Feed"/>
+            <outline type="rss" text="kyberturvallisuuskeskus.fi RSS" title="kyberturvallisuuskeskus.fi RSS" xmlUrl="https://www.kyberturvallisuuskeskus.fi/feed/rss/en/399" htmlUrl="https://kyberturvallisuuskeskus.fi/feed/rss/en/399"/>
+            <outline type="rss" text="JPCERT/CCブログ 英語版" title="JPCERT/CCブログ 英語版" xmlUrl="https://blogs.jpcert.or.jp/en/atom.xml" htmlUrl="https://blogs.jpcert.or.jp/en/"/>
+            <outline type="rss" text="CERT.LV" title="CERT.LV" xmlUrl="https://cert.lv/en/feed/rss/all" htmlUrl="https://cert.lv"/>
+            <outline type="rss" text="EG-CERT" title="EG-CERT" xmlUrl="https://www.egcert.eg/feed/" htmlUrl="https://www.egcert.eg"/>
+            <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://www.cert.ssi.gouv.fr/feed/" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+            <outline type="rss" text="kyberturvallisuuskeskus.fi RSS" title="kyberturvallisuuskeskus.fi RSS" xmlUrl="https://www.kyberturvallisuuskeskus.fi/feed/rss/en" htmlUrl="https://kyberturvallisuuskeskus.fi/feed/rss/en"/>
+            <outline type="rss" text="CERT Polska" title="CERT Polska" xmlUrl="https://cert.pl/en/rss.xml" htmlUrl="https://cert.pl/en/"/>
+            <outline type="rss" text="Home - CERIST" title="Home - CERIST" xmlUrl="http://www.cerist.dz/index.php/en/?format=feed&amp;type=rss" htmlUrl="https://www.cerist.dz/index.php/en/"/>
+            <outline type="rss" text="JPCERT/CC RSS Feed" title="JPCERT/CC RSS Feed" xmlUrl="https://www.jpcert.or.jp/english/rss/jpcert-en.rdf" htmlUrl="https://www.jpcert.or.jp/"/>
+            <outline type="rss" text="News Archives - SI CERT" title="News Archives - SI CERT" xmlUrl="https://www.cert.si/en/category/news/feed/" htmlUrl="https://www.cert.si/en/"/>
+            <outline type="rss" text="NCSC-FI vulnerabilities summary" title="NCSC-FI vulnerabilities summary" xmlUrl="https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml" htmlUrl="https://ncsc.fi"/>
+            <outline type="rss" text="NCSC Feed" title="NCSC Feed" xmlUrl="https://www.ncsc.gov.uk/feeds/alerts-and-advisories.xml" htmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"/>
+            <outline type="rss" text="Guidance, news and events" title="Guidance, news and events" xmlUrl="https://cyber.gc.ca/webservice/en/rss/news" htmlUrl="https://cyber.gc.ca/webservice/en/rss/news"/>
+            <outline type="rss" text="CERT.at - Blog" title="CERT.at - Blog" xmlUrl="https://cert.at/cert-at.en.blog.rss_2.0.xml" htmlUrl="https://cert.at"/>
+            <outline type="rss" text="National Cyber Security Centre - News items" title="National Cyber Security Centre - News items" xmlUrl="https://feeds.english.ncsc.nl/news.rss" htmlUrl="https://english.ncsc.nl/"/>
+            <outline type="rss" text="Alerts and advisories" title="Alerts and advisories" xmlUrl="https://cyber.gc.ca/webservice/en/rss/alerts" htmlUrl="https://cyber.gc.ca/webservice/en/rss/alerts"/>
+            <outline type="rss" text="Cert.be advisories" title="Cert.be advisories" xmlUrl="https://cert.be/en/rss" htmlUrl="https://cert.be/en/rss"/>
+            <outline type="rss" text="HKCERT Infosec Express -- Alert and Blog Channel" title="HKCERT Infosec Express -- Alert and Blog Channel" xmlUrl="https://www.hkcert.org/getrss/en/securitybulletin" htmlUrl="https://www.hkcert.org/getrss/security-bulletin"/>
+            <outline type="rss" text="Whitepapers on GovCERT.ch - Swiss Government Computer Emergency Response Team" title="Whitepapers on GovCERT.ch - Swiss Government Computer Emergency Response Team" xmlUrl="https://www.govcert.ch/whitepapers/rss.xml" htmlUrl="https://www.govcert.ch/whitepapers/"/>
+        </outline>
+	</body>
+</opml>
